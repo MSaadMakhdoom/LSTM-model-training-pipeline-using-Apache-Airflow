@@ -46,6 +46,8 @@ airflow scheduler -D
 ```
 
 # check process is running
+```
 lsof -i tcp:8080
 
 kill -9 <pid>
+```
