@@ -51,3 +51,6 @@ lsof -i tcp:8080
 
 kill -9 <pid>
 ```
+
+![output]()
+![output](https://github.com/MSaadMakhdoom/LSTM-model-training-pipeline-using-Apache-Airflow/blob/main/screencapture-localhost-8080-graph-2023-06-14-22_01_16.png)
