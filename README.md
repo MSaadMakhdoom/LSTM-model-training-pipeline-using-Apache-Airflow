@@ -55,3 +55,6 @@ kill -9 <pid>
 ![output](https://github.com/MSaadMakhdoom/LSTM-model-training-pipeline-using-Apache-Airflow/blob/main/screencapture-localhost-8080-tree-2023-06-14-22_00_57.png)
 ##
 ![output](https://github.com/MSaadMakhdoom/LSTM-model-training-pipeline-using-Apache-Airflow/blob/main/screencapture-localhost-8080-graph-2023-06-14-22_01_16.png)
+
+## DAG Script Code
+![output](https://github.com/MSaadMakhdoom/LSTM-model-training-pipeline-using-Apache-Airflow/blob/main/screencapture-localhost-8080-code-2023-06-14-22_28_17.png)
